@@ -1,1 +1,2 @@
-Shell basics project
+# holbertonschool-shell
+Shell basics and scripting tasks.
