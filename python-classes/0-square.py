@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 """
-This is an example for creating a class.
+Module 0-square
+Defines a Square class
 """
 
 
 class Square:
     """
-    Square class represents a square.
-    Now this class is empty.
+    An empty class that defines a square
     """
     pass
