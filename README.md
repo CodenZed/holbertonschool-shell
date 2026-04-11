@@ -1,2 +1,3 @@
-# holbertonschool-shell
-Shell basics and scripting tasks.
+# Holberton Higher Level Programming
+
+This repository contains higher level programming projects in Python.
